@@ -1,3 +1,14 @@
+# egos-2000
+
+Personal working copy of the [egos-2000](https://github.com/yhzhang0128/egos-2000) operating systems project, following the projects in the [EGOS book](https://egos.fun/book/overview.html).
+
+- [X] P0: Hello, World! ([`hello`](../../tree/hello)): formatted printing and dynamic memory allocation on bare-metal RISC-V
+- [ ] P1: Cooperative Threads
+
+Original README below:
+
+---
+
 ## Vision
 
 This project's vision is to help **every** student read **all** the code of a teaching operating system.
