@@ -4,6 +4,13 @@ Personal working copy of the [egos-2000](https://github.com/yhzhang0128/egos-200
 
 - [X] P0: Hello, World! ([`hello`](../../tree/hello)): formatted printing and dynamic memory allocation on bare-metal RISC-V
 - [ ] P1: Cooperative Threads
+- [ ] P2: Preemptive Scheduling
+- [ ] P3: System Call & Protection
+- [ ] P4: Virtual Memory
+- [ ] P5: I/O Device Driver
+- [ ] P6: File System
+- [ ] P7: Ethernet & TCP/IP
+- [ ] P8: Multicore & Locks
 
 Original README below:
 
